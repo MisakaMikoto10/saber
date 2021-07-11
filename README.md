@@ -1,5 +1,5 @@
 # Saber
-![logo](1625950461659.jpg)
+![Blue Saber](https://user-images.githubusercontent.com/84166927/125183778-c924f880-e24b-11eb-90a2-f5edb0c680eb.jpg)
 
 ### Simple WhatsApp Bot for Group
 
