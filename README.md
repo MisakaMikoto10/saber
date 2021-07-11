@@ -1,5 +1,5 @@
 # Saber
-![logo](https://www.pixiv.net/en/artworks/90763440)
+![logo](1625950461659.jpg)
 
 ### Simple WhatsApp Bot for Group
 
